@@ -31,6 +31,6 @@ Bugs / Issues?
 
 Please feel free to open issues on this repo if you find bugs:
 
-https://github.com/dmiddlecamp/particle_arducam/issues
+https://github.com/dmiddlecamp/particle_tcp_example/issues
 
 Thanks!
